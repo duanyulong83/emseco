@@ -12,4 +12,4 @@ Extrēmus是基于DAG(有向无环图)+Sharding(分表扩容)结构的强大基�
 
 运行测试程序
 
-    go test -v emseco/core/
+    go test -v core
